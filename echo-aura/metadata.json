@@ -1,0 +1,8 @@
+{
+  "name": "Echo",
+  "description": "Imported from GitHub: a0krsharma/echo-aura",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

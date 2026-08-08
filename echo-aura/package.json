@@ -1,0 +1,9 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Echo native Android application",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  }
+}
